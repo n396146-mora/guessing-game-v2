@@ -8,13 +8,16 @@ During the game, you will let the user know if they should guess higher or lower
 
 Helpful advice:  
 [x] create a variable for the number of guesses and increment whenever a guess is made.
+
 [x] compare the user's guess to the chosen number each time to tell them whether they should guess higher, lower, or have the right number
 
 Sample run:
 >Hello user!  Welcome to the Guessing Game v2.  
 >I will choose a number and we'll see how many 
 >guesses it takes for you to guess the number.
+>
 >What's the lowest number you want me to choose from? 2
+>
 >What's the highest number you want me to choose from? 6000
 >
 >Okay, I've chosen a number from 2 - 6000.
