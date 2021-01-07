@@ -12,7 +12,8 @@ Helpful advice:
 
 Sample run:
 >Hello user!  Welcome to the Guessing Game v2.  
->I will choose a number and we'll see how many guesses it takes for you to guess the number.
+>I will choose a number and we'll see how many 
+>guesses it takes for you to guess the number.
 >What's the lowest number you want me to choose from? 2
 >What's the highest number you want me to choose from? 6000
 >
